@@ -1,0 +1,32 @@
+.match-card {
+  background-color: #1e293b;
+  padding: 15px;
+  border: #1e293b solid 1px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  width: 250px;
+  font-family: 'Bree Serif';
+  color: white;
+  height: 400px;
+}
+.won {
+  font-size: 30px;
+  font-family: 'Bree Serif';
+  color: green;
+}
+.lost {
+  font-size: 30px;
+  font-family: 'Bree Serif';
+  color: red;
+}
+.log {
+  width: 100px;
+  height: 100px;
+}
+p {
+  text-align: center;
+}
